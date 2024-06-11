@@ -1,0 +1,14 @@
+C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\Add Days BOOC\Add Days BOOC\bin\Debug\net8.0\Add Days BOOC.exe
+C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\Add Days BOOC\Add Days BOOC\bin\Debug\net8.0\Add Days BOOC.deps.json
+C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\Add Days BOOC\Add Days BOOC\bin\Debug\net8.0\Add Days BOOC.runtimeconfig.json
+C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\Add Days BOOC\Add Days BOOC\bin\Debug\net8.0\Add Days BOOC.dll
+C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\Add Days BOOC\Add Days BOOC\bin\Debug\net8.0\Add Days BOOC.pdb
+C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\Add Days BOOC\Add Days BOOC\obj\Debug\net8.0\Add Days BOOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\Add Days BOOC\Add Days BOOC\obj\Debug\net8.0\Add Days BOOC.AssemblyInfoInputs.cache
+C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\Add Days BOOC\Add Days BOOC\obj\Debug\net8.0\Add Days BOOC.AssemblyInfo.cs
+C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\Add Days BOOC\Add Days BOOC\obj\Debug\net8.0\Add Days BOOC.csproj.CoreCompileInputs.cache
+C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\Add Days BOOC\Add Days BOOC\obj\Debug\net8.0\Add Days BOOC.dll
+C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\Add Days BOOC\Add Days BOOC\obj\Debug\net8.0\refint\Add Days BOOC.dll
+C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\Add Days BOOC\Add Days BOOC\obj\Debug\net8.0\Add Days BOOC.pdb
+C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\Add Days BOOC\Add Days BOOC\obj\Debug\net8.0\Add Days BOOC.genruntimeconfig.cache
+C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\Add Days BOOC\Add Days BOOC\obj\Debug\net8.0\ref\Add Days BOOC.dll
